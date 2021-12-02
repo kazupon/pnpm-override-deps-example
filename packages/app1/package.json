@@ -1,0 +1,14 @@
+{
+  "name": "app1",
+  "private": true,
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "version": "tsc -v"
+  },
+  "dependencies": {
+    "typescript": "^3.0.0"
+  }
+}
